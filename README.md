@@ -1,4 +1,5 @@
 # ATS Resume Expert
+<img width="1365" height="602" alt="Screenshot 2025-09-08 144508" src="https://github.com/user-attachments/assets/4a947d54-85fd-412b-93f4-48760e74e8bd" />
 
 A Streamlit application that analyzes resumes against job descriptions using Google's Gemini AI model to provide professional feedback and ATS compatibility scoring.
 
@@ -58,5 +59,6 @@ The application:
 ## Note
 
 Make sure you have a valid Google API key with access to the Gemini Pro model. The application uses Gemini 1.5 Pro for analysis.
+![Uploading Screenshot 2025-09-08 144508.png…]()
 
 ## License
