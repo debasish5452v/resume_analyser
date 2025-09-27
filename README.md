@@ -57,6 +57,6 @@ The application:
 
 ## Note
 
-Make sure you have a valid Google API key with access to the Gemini Pro model. The application uses Gemini 1.5 Pro for analysis..
+Make sure you have a valid Google API key with access to the Gemini Pro model. The application uses Gemini 1.5 Pro for analysis.
 
 <img width="1365" height="602" alt="Screenshot 2025-09-08 144508" src="https://github.com/user-attachments/assets/5e497846-3116-4096-a5fd-e4d220d62bf5" />
